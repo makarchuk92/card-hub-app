@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://makarchuk92.github.io/card-hub-app",
+  "homepage": "https://makarchuk92.github.io/card-hub-vite",
   "scripts": {
     "predeploy": "npm run build",
    "deploy": "gh-pages -d dist",
